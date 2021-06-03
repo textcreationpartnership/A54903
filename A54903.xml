@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pindarick ode upon these inconstant and tragick times written in August, 1691, upon the news of the victory obtain'd by Their Majesties forces at Aghrim.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54903</idno><idno type="EEBO-CITATION">14994187</idno>
+  <idno type="VID">103050</idno>
+  <idno type="EEBO-PROQUEST">2240941226</idno>
+  
+            <idno type="STC">Wing P2259</idno>
+            <idno type="STC">ESTC R35108</idno>
+            <idno type="OCLC">14994187</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103050)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pindarick ode upon these inconstant and tragick times written in August, 1691, upon the news of the victory obtain'd by Their Majesties forces at Aghrim.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Poetry.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103050:1"/>
+            <pb facs="tcp:103050:1"/>
+            <p>A Pindarick ODE Upon these <hi>Inconstant and Tragick</hi> TIMES.</p>
+            <p>Written in <hi>August</hi> 1691.</p>
+            <p>Upon the News of the VICTORY Obtain'd by Their Majesties Forces at AGHRIM.</p>
+            <q>
+               <l>Hae tibi erunt artes; pacisque imponere morem,</l>
+               <l>Parcere subjectis, &amp; debellare superbos.</l>
+               <bibl>
+                  <hi>Virg. lib. 6. Aen.</hi>
+               </bibl>
+               <l>—Sternet paenos, Gallumque rebellem.</l>
+               <bibl>
+                  <hi>Ibid.</hi>
+               </bibl>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>October</hi> 24. 1691.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Randal Taylor,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:103050:2"/>
+            <pb n="3" facs="tcp:103050:2"/>
+            <head>Upon these <hi>Inconstant and Tragick</hi> TIMES, A Pindarick ODE.</head>
+            <head type="sub">
+               <hi>August</hi> 1. 1691.</head>
+            <lg>
+               <head>I.</head>
+               <l>NOW at Great <hi>Jove</hi>'s Supream Command,</l>
+               <l>Fortune his Slave with threat'ning Hand,</l>
+               <l>Furiously whirls about her Wheel;</l>
+               <l>Which turning like a vast Machine,</l>
+               <l>Changes the World's great Stage, unseen,</l>
+               <l>Whilst with the Motion giddy Nations reel.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>
+                  <hi>Alecto</hi> has been rows'd from Hell,</l>
+               <l>To punish a Flagitious Age;</l>
+               <l>In Humane Breasts her Serpents dwell,</l>
+               <l>And sting the guilty World to Rage.</l>
+               <l>The Fury stalks about and Raves;</l>
+               <l>
+                  <hi>Germany</hi> trembles at her horrid Yell,</l>
+               <l>She Rates the backward <hi>French,</hi> goads on th'abandon'd Slaves,</l>
+               <l>To execute the black Contrivances of Hell.</l>
+               <l>On, to prodigious Villanies they go,</l>
+               <l>Till they want Sense their Monst'rous Crimes to know.</l>
+               <lg>
+                  <l>Thro' the <hi>Palatinate</hi> she with them flies,</l>
+                  <l>And whilst the Native by his Murderers dies,</l>
+                  <l>She her Infernal Torch to ev'ry House applies.</l>
+               </lg>
+               <l>A Town she Burns for each vast Funeral Pile,</l>
+               <l>And (Grinning horribly a ghastly Smile)</l>
+               <l>Upon the Flames, as terribly they blaze,</l>
+               <l>Th' Abominable Fiend with dismal Joy does gaze.</l>
+            </lg>
+            <pb n="4" facs="tcp:103050:3"/>
+            <lg>
+               <head>III.</head>
+               <l>As Deluges whole Kingdoms sweep,</l>
+               <l>Urg'd by fierce Tempests and the Deep,</l>
+               <l>Wars dreadful Inundation swells,</l>
+               <l>Rais'd both by Wrath Divine and Hells.</l>
+               <l>Nor Art nor Nature has the Force</l>
+               <l>To stop its noisie Course.</l>
+               <l>Nor <hi>Alps</hi> nor <hi>Pireneans</hi> keep it out,</l>
+               <l>Nor fortify'd redoubt.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <lg>
+                  <l>In vain the Irish Straw-built Huts forsake,</l>
+                  <l>And to their Bogs in vain they make,</l>
+                  <l>There soon does Fate her Fugitives o'ertake.</l>
+               </lg>
+               <l>And as, with Horror and with Fear</l>
+               <l>Her grim Attendants, she draws near;</l>
+               <l>The Bogs and Men with one Convulsion shake.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>In vain to the Aetherial Skies,</l>
+               <l>Climbing his <hi>Alps,</hi> th'amaz'd <hi>Savoyard</hi> flies;</l>
+               <l>The Bloody <hi>French</hi> the Wretch pursue,</l>
+               <l>Who Pants with Toil and Terror too.</l>
+               <l>And near to Heav'n (Deaf to his piercing Cries)</l>
+               <l>By Impious Hands he Dies.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>In Belgian Plains, whilst th' <hi>English</hi> Lyon Ramps,</l>
+               <l>Terror's diffus'd thro' Gallick Forts and Camps.</l>
+               <l>See how his deadly lifted Paw</l>
+               <l>Keeps Couchant <hi>Luxemburgh</hi> in awe!</l>
+               <l>At <hi>William</hi>'s mighty Name,</l>
+               <l>All <hi>France,</hi> with its exalted Idol, shakes;</l>
+               <l>
+                  <hi>William</hi>'s bright sounding Fame,</l>
+               <l>Like Light'ning when from Heav'n it breaks,</l>
+               <l>Troubles the great Offender's Sight,</l>
+               <l>And does his Conscious Instruments affright;</l>
+               <l>And by its Brightness and its Noise,</l>
+               <l>Confounds them, e'er his Arm, Wars Thunder-bolt, destroys.</l>
+            </lg>
+            <pb n="5" facs="tcp:103050:3"/>
+            <lg>
+               <head>VII.</head>
+               <lg>
+                  <l>Glittering in Glorious Arms he shines from far,</l>
+                  <l>Like the Fifth Heav'ns ascendent Star,</l>
+                  <l>Whose very Aspect gives Success in War:</l>
+               </lg>
+               <lg>
+                  <l>Whose influential Pow'r decides,</l>
+                  <l>And over Fatal Fields presides,</l>
+                  <l>Just like the Moon's o'er raging Tides;</l>
+               </lg>
+               <l>Till by Conjunction deadlier grown,</l>
+               <l>By its Confederate Force some Mighty State's o'erthrown.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>To <hi>William</hi>'s Virtue stiff Rebellion yields,</l>
+               <l>In <hi>Aghrim</hi>'s Purple Fields.</l>
+               <l>
+                  <hi>William,</hi> when at the <hi>Boyn</hi> he Fought,</l>
+               <l>The <hi>Shannon</hi> and the <hi>Suc</hi> to pass, his Fierce Battalions taught.</l>
+               <lg>
+                  <l>His Bravery kindled in their Breasts the Fire</l>
+                  <l>Which does to Glory by great Acts aspire,</l>
+                  <l>And on to <hi>Aghrim</hi> hurried them unknowing to retire.</l>
+               </lg>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>Should Fear in wretched Man prevail,</l>
+               <l>Who could condemn it in a thing so Frail?</l>
+               <l>The Universe has not a Creature,</l>
+               <l>Which the Condition of its Nature,</l>
+               <l>Subjects to more internal accidents,</l>
+               <l>Or outward casual Events.</l>
+               <l>The least of which has often Pow'r</l>
+               <l>To antedate his Fatal Hour.</l>
+               <lg>
+                  <l>
+                     <hi>William,</hi> not only subject is to those,</l>
+                  <l>High pow'r, vast worth, him ev'ry hour expose,</l>
+                  <l>To the Perfidiousness and Strength of all his Gallick Foes.</l>
+               </lg>
+               <l>Domestick Villains who surround him too,</l>
+               <l>In his Destruction wish the World t'undo.</l>
+               <l>Yet see him in this dangerous State,</l>
+               <l>Dauntless, as Gods secur'd by Fate.</l>
+            </lg>
+            <pb n="6" facs="tcp:103050:4"/>
+            <lg>
+               <head>X.</head>
+               <l>The numerous Squadrons of his Foes,</l>
+               <l>Th'accursed Troublers of the World's repose;</l>
+               <l>He with Heroick Rage Defies.</l>
+               <l>Surveying them, his Sparkling Eyes,</l>
+               <l>With God-like Transports rowl,</l>
+               <l>And his brave Warriors second his great Soul,</l>
+               <l>And (tho retrench'd old wary
+<note n="*" place="margin">Luxembourg.</note>
+                  <hi>Bouteville</hi> lyes)</l>
+               <l>Each for the Onset cries.</l>
+               <l>He, wise in Fury, keeps them back;</l>
+               <l>Conduct profound defers the wish'd Attack.</l>
+               <l>Thus, often, when some desperate Offence,</l>
+               <l>Does Heav'ns Almighty Pow'r incense;</l>
+               <l>Its Vengeance it delays, expecting Fatal Times,</l>
+               <l>By high fore-knowledge pre-ordain'd, to punish mighty Crimes.</l>
+            </lg>
+            <lg>
+               <head>XI.</head>
+               <l>When <hi>William,</hi> the predestin'd Hour</l>
+               <l>Torethrow that formidable Pow'r,</l>
+               <l>Struck by the dire Alarum comes;</l>
+               <l>Struck by loud Cannon and tempestuous Drums:</l>
+               <l>When Gods the business of the World forego,</l>
+               <l>To be Spectators of the fierce Debate;</l>
+               <l>Pleas'd to behold the Sanguinary Show,</l>
+               <l>The Tragick Play of Fortune and of Fate,</l>
+               <l>In that great hour, that wond'rous hour, controle thy noble fire,</l>
+               <l>Which does to bright eternal Fame, too furiously aspire.</l>
+               <l>Ah! let not the transporting Rage,</l>
+               <l>The Christians World's sole Hope too dangerously engage!</l>
+               <l>On thee depend thy Country and thy Friends;</l>
+               <l>On thee the Dreadful Day, and vast Event depends.</l>
+            </lg>
+            <lg>
+               <head>XII.</head>
+               <l>Think on the <hi>Boyn,</hi> on thy great Action think;</l>
+               <lg>
+                  <l>Where can that Man, who thinks not on't, be found?</l>
+                  <l>That Action thro' both <hi>Indies</hi> does resound,</l>
+                  <l>And as the Golden <hi>Ganges,</hi> makes the wretched <hi>Boyn</hi> renown'd.</l>
+               </lg>
+               <l>Think how expos'd, thou mad'st its Banks the Brink</l>
+               <l>Of Ruin, into which we all were like to sink;</l>
+               <l>Its Banks more Famous for the threat'ned Blow,</l>
+               <l>Than for the signal Overthrow.</l>
+               <pb n="7" facs="tcp:103050:4"/>
+               <l>Canst thou one cursed Moment there forget?</l>
+               <l>
+                  <hi>Europe</hi> remembers it with Horror yet.</l>
+               <lg>
+                  <l>Though on those Banks Victorious Troops you led,</l>
+                  <l>And half the Rebels were already fled,</l>
+                  <l>Yet when the Fatal Shot approach'd thy Sacred Head,</l>
+               </lg>
+               <l>(But <hi>Schomberg</hi> Destiny atton'd)</l>
+               <l>Fair Liberty shriek'd out aloud, Aloud Religion groan'd.</l>
+               <lg>
+                  <l>How did they on their Champions danger look!</l>
+                  <l>Ev'n <hi>England</hi>'s Genious was with Terror struck,</l>
+                  <l>And of the whole Confed'rate Pow'r the Guardian Angel shook.</l>
+               </lg>
+            </lg>
+            <lg>
+               <head>XIII.</head>
+               <lg>
+                  <l>Menage thy Royal Life, by Heav'n design'd,</l>
+                  <l>T' ensure <hi>Great Britain</hi> and Mankind:</l>
+                  <l>Thy Safety for Their own all Necessary find.</l>
+               </lg>
+               <l>Had Heav'n Thy Death made necessary too,</l>
+               <l>Does not Thy former Conduct shew,</l>
+               <l>That Thou wouldst, ravish'd with Thy Glorious doom,</l>
+               <l>Do for the World what <hi>Curtius</hi> did for <hi>Rome?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>XIV.</head>
+               <l>Ye <hi>British</hi> Muses celebrate his Fame,</l>
+               <l>Where can ye find a nobler Theme</l>
+               <l>T' Illustrate Yours or <hi>Britains</hi> Name?</l>
+               <l>In Valor Sovereign, and in Sense Supreme,</l>
+               <lg>
+                  <l>He's over all His Subjects Found,</l>
+                  <l>His Subjects thro' the World Renown'd,</l>
+                  <l>For Lofty Spirit, and for Thought Profound.</l>
+               </lg>
+               <l>To Him your <hi>Britain</hi> owes,</l>
+               <l>That nothing but the Sound of War She knows:</l>
+               <lg>
+                  <l>Ev'ry where else Death and Destruction Reign,</l>
+                  <l>Our Happy Isle within does Peace retain,</l>
+                  <l>Defended by a double Guard, its Monarch and the Main.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
